@@ -1,0 +1,3 @@
+# keep the shared files byte-identical to the distributed versions
+eda_shared/** -text
+config.py -text

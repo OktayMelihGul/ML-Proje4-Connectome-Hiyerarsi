@@ -1,0 +1,3 @@
+dataset,neurons,region_group optic,optic share of neurons,central_brain,vnc,unknown region,optic share of synapses,split 0.2<optic_frac<0.8,split 0.1<optic_frac<0.9
+fafb,139255,93771,0.6734,45203,0,281,0.4417,6171,7437
+malecns,165122,98769,0.5982,43988,22027,338,0.3456,6419,8146

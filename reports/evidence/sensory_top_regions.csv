@@ -1,0 +1,25 @@
+region,sensory neurons,dataset
+LA_L,4293,fafb
+LA_R,3948,fafb
+GNG,2593,fafb
+AL_L,1349,fafb
+ME_L,1327,fafb
+ME_R,1316,fafb
+AL_R,1036,fafb
+SAD,497,fafb
+OCG,273,fafb
+unknown,258,fafb
+AMMC_R,251,fafb
+AMMC_L,205,fafb
+AL_R,1726,malecns
+GNG,1622,malecns
+ME_R,1480,malecns
+ME_L,1223,malecns
+ANm,1052,malecns
+AL_L,1005,malecns
+LA_R,893,malecns
+LegNp_T3_R,760,malecns
+LegNp_T3_L,689,malecns
+LegNp_T2_R,659,malecns
+LegNp_T2_L,621,malecns
+SAD,531,malecns

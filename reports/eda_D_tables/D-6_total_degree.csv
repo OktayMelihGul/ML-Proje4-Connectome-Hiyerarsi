@@ -1,0 +1,5 @@
+dataset,set,neurons,median_total_degree,zero_total_degree_%,p90
+fafb,reachable,32941,14.0,0.0,77.0
+fafb,unreachable,4615,2.0,33.24,10.0
+malecns,reachable,38247,30.0,0.0,121.0
+malecns,unreachable,713,4.0,17.53,23.0

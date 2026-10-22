@@ -1,0 +1,6 @@
+table,expected,ours
+fafb neurons,139248,139255
+fafb edges with syn_count >= 5,2700513,2700513
+malecns neurons,165122,165122
+malecns edges with syn_count >= 5,,6235649
+self-connections dropped (fafb / malecns),0 / 101,0 / 101

@@ -1,0 +1,26 @@
+column,value,count
+fafb.side,left,69956
+fafb.side,right,69088
+fafb.side,center,174
+fafb.side,na,30
+malecns.somaSide,R,74430
+malecns.somaSide,L,74220
+malecns.somaSide,<NA>,16080
+malecns.somaSide,M,392
+malecns.rootSide,<NA>,149219
+malecns.rootSide,R,8321
+malecns.rootSide,L,7168
+malecns.rootSide,unknown,414
+malecns.somaSide|rootSide (used),R,82738
+malecns.somaSide|rootSide (used),L,81362
+malecns.somaSide|rootSide (used),unknown,414
+malecns.somaSide|rootSide (used),M,392
+malecns.somaSide|rootSide (used),<NA>,216
+fafb.side (mapped),left,69952
+fafb.side (mapped),right,69085
+fafb.side (mapped),center,174
+fafb.side (mapped),unknown,44
+malecns.side (mapped),right,82738
+malecns.side (mapped),left,81362
+malecns.side (mapped),unknown,630
+malecns.side (mapped),center,392

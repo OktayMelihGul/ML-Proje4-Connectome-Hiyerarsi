@@ -1,0 +1,25 @@
+dataset,threshold,scope,sources at depth 0,direct targets at depth 1,n direct targets
+fafb,>=1,full graph,True,True,24570
+fafb,>=1,central-brain subgraph,True,True,6434
+fafb,>=5,full graph,True,True,10220
+fafb,>=5,central-brain subgraph,True,True,3414
+fafb,>=10,full graph,True,True,6216
+fafb,>=10,central-brain subgraph,True,True,2188
+fafb,0.9%,full graph,True,True,16507
+fafb,0.9%,central-brain subgraph,True,True,4068
+fafb,1.0%,full graph,True,True,15804
+fafb,1.0%,central-brain subgraph,True,True,3890
+fafb,2.6%,full graph,True,True,9691
+fafb,2.6%,central-brain subgraph,True,True,2001
+malecns,>=1,full graph,True,True,43874
+malecns,>=1,central-brain subgraph,True,True,6655
+malecns,>=5,full graph,True,True,27495
+malecns,>=5,central-brain subgraph,True,True,4612
+malecns,>=10,full graph,True,True,18818
+malecns,>=10,central-brain subgraph,True,True,3356
+malecns,0.9%,full graph,True,True,28386
+malecns,0.9%,central-brain subgraph,True,True,3704
+malecns,1.0%,full graph,True,True,27260
+malecns,1.0%,central-brain subgraph,True,True,3547
+malecns,2.6%,full graph,True,True,15944
+malecns,2.6%,central-brain subgraph,True,True,1637

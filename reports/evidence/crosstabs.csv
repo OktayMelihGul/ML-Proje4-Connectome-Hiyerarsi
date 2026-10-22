@@ -1,0 +1,5 @@
+dataset,comparison,both,only >=10 syn,only relative,neither,jaccard
+fafb,>=10 syn vs >=0.9% input,700962,365860,2680960,11344201,0.187
+fafb,>=10 syn vs >=1.0% input,669023,397799,2357095,11668066,0.1954
+malecns,>=10 syn vs >=0.9% input,1479846,1269561,2733719,20080071,0.2699
+malecns,>=10 syn vs >=1.0% input,1391650,1357757,2364585,20449205,0.2721

@@ -1,0 +1,57 @@
+table,check,passed,detail,dataset,min_syn
+neurons,1 columns,True,missing=[] extra=[],fafb,1
+neurons,2 dtypes,True,bad=[],fafb,1
+neurons,3 nullability,True,nulls in non-nullable={},fafb,1
+neurons,6 vocabulary,True,{},fafb,1
+edges,1 columns,True,missing=[] extra=[],fafb,1
+edges,2 dtypes,True,bad=[],fafb,1
+edges,3 nullability,True,nulls in non-nullable={},fafb,1
+edges,6 vocabulary,True,{},fafb,1
+neurons,4 key uniqueness,True,duplicate neuron_id=0,fafb,1
+edges,4 key uniqueness,True,"duplicate (pre_id, post_id)=0",fafb,1
+edges,5 referential integrity,True,"pre_id not in neurons=0, post_id not in neurons=0",fafb,1
+edges,5b dataset/release match,True,edges=['783'] neurons=['783'],fafb,1
+edges,7 threshold consistency,True,"min_syn_fetched=[np.int32(1)], rows below threshold=0, min syn_count=1",fafb,1
+edges,8 plausibility,True,out-synapses>n_pre: 0; in-synapses>n_post: 0; out-degree>n_pre: 0,fafb,1
+neurons,1 columns,True,missing=[] extra=[],fafb,5
+neurons,2 dtypes,True,bad=[],fafb,5
+neurons,3 nullability,True,nulls in non-nullable={},fafb,5
+neurons,6 vocabulary,True,{},fafb,5
+edges,1 columns,True,missing=[] extra=[],fafb,5
+edges,2 dtypes,True,bad=[],fafb,5
+edges,3 nullability,True,nulls in non-nullable={},fafb,5
+edges,6 vocabulary,True,{},fafb,5
+neurons,4 key uniqueness,True,duplicate neuron_id=0,fafb,5
+edges,4 key uniqueness,True,"duplicate (pre_id, post_id)=0",fafb,5
+edges,5 referential integrity,True,"pre_id not in neurons=0, post_id not in neurons=0",fafb,5
+edges,5b dataset/release match,True,edges=['783'] neurons=['783'],fafb,5
+edges,7 threshold consistency,True,"min_syn_fetched=[np.int32(5)], rows below threshold=0, min syn_count=5",fafb,5
+edges,8 plausibility,True,out-synapses>n_pre: 0; in-synapses>n_post: 0; out-degree>n_pre: 0,fafb,5
+neurons,1 columns,True,missing=[] extra=[],malecns,1
+neurons,2 dtypes,True,bad=[],malecns,1
+neurons,3 nullability,True,nulls in non-nullable={},malecns,1
+neurons,6 vocabulary,True,{},malecns,1
+edges,1 columns,True,missing=[] extra=[],malecns,1
+edges,2 dtypes,True,bad=[],malecns,1
+edges,3 nullability,True,nulls in non-nullable={},malecns,1
+edges,6 vocabulary,True,{},malecns,1
+neurons,4 key uniqueness,True,duplicate neuron_id=0,malecns,1
+edges,4 key uniqueness,True,"duplicate (pre_id, post_id)=0",malecns,1
+edges,5 referential integrity,True,"pre_id not in neurons=0, post_id not in neurons=0",malecns,1
+edges,5b dataset/release match,True,edges=['v1.0'] neurons=['v1.0'],malecns,1
+edges,7 threshold consistency,True,"min_syn_fetched=[np.int32(1)], rows below threshold=0, min syn_count=1",malecns,1
+edges,8 plausibility,True,out-synapses>n_pre: 0; in-synapses>n_post: 0; out-degree>n_pre: 0,malecns,1
+neurons,1 columns,True,missing=[] extra=[],malecns,5
+neurons,2 dtypes,True,bad=[],malecns,5
+neurons,3 nullability,True,nulls in non-nullable={},malecns,5
+neurons,6 vocabulary,True,{},malecns,5
+edges,1 columns,True,missing=[] extra=[],malecns,5
+edges,2 dtypes,True,bad=[],malecns,5
+edges,3 nullability,True,nulls in non-nullable={},malecns,5
+edges,6 vocabulary,True,{},malecns,5
+neurons,4 key uniqueness,True,duplicate neuron_id=0,malecns,5
+edges,4 key uniqueness,True,"duplicate (pre_id, post_id)=0",malecns,5
+edges,5 referential integrity,True,"pre_id not in neurons=0, post_id not in neurons=0",malecns,5
+edges,5b dataset/release match,True,edges=['v1.0'] neurons=['v1.0'],malecns,5
+edges,7 threshold consistency,True,"min_syn_fetched=[np.int32(5)], rows below threshold=0, min syn_count=5",malecns,5
+edges,8 plausibility,True,out-synapses>n_pre: 0; in-synapses>n_post: 0; out-degree>n_pre: 0,malecns,5

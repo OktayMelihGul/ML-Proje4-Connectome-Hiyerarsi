@@ -1,0 +1,2 @@
+dataset,neurons with group,distinct groups,group size median,groups with >=1 L and >=1 R,L/R neurons in such groups,L/R neurons paired by cell_type rule,paired by both,group-paired only,cell_type-paired only,group-paired but untyped
+malecns,145524,13746,2.0,13591,145045,161193,144538,507,16655,505

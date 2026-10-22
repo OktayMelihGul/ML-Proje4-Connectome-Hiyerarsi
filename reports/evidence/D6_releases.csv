@@ -1,0 +1,12 @@
+server,dataset,last_mod,description (first line)
+neuPrint,hemibrain:v1.2.1,2020-12-05 21:53:59,A reconstructon of the female central complex and surrounding neuropils from the Janelia FlyEM Team Project and Google Connectomics.
+neuPrint,male-cns:v0.9,2025-06-18 14:41:50.300008536-04:00 / 2025-09-29T23:44:02-04,"The complete MaleCNS connectome from the Janelia FlyEM Team Project and the Cambridge Drosophila Connectomics Group, covering the brain and "
+neuPrint,male-cns:v1.0,2026-03-28 11:56:30.222612573-04:00 / 2026-06-08T01:31:39-04,"The complete MaleCNS connectome from the Janelia FlyEM Team Project,"
+neuPrint,manc:v1.0,2023-05-31 23:54:01,"The MANC connectome from the Janelia FlyEM Team Project and the Cambridge Drosophila Connectomics Group, and Google Connectomics."
+neuPrint,manc:v1.2.1,2024-02-01 00:07:45.885983601-05:00,"The MANC connectome from the Janelia FlyEM Team Project and the Cambridge Drosophila Connectomics Group, and Google Connectomics."
+neuPrint,manc:v1.2.3,2024-02-01 00:07:45.885983601-05:00 / 2024-08-31 00:00:00.00,"The MANC connectome from the Janelia FlyEM Team Project and the Cambridge Drosophila Connectomics Group, and Google Connectomics."
+neuPrint,mushroombody,2017-05-12T10:32:04,"A reconstruction of the fly alpha lobe in the mushroom body, with 983 neurons."
+neuPrint,optic-lobe:v1.0.1,2023-10-31 19:51:27.037419730-04:00,"A reconstruction of the fly optic lobe, 50k neurons. This covers a subset (right optic lobe) of the MaleCNS sample."
+neuPrint,optic-lobe:v1.1,2024-09-11 00:04:56.916796654-04:00,A reconstruction of the Drosophila optic lobe from the Janelia FlyEM Team Project and Google Connectomics.
+CAVE flywire_fafb_public,materialization 630,2023-03-21 08:10:01.19418,
+CAVE flywire_fafb_public,materialization 783,2023-09-30 05:10:01.44114,

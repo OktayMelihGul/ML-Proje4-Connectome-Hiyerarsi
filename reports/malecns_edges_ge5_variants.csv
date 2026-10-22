@@ -1,0 +1,14 @@
+variant,edges_ge5,edges_ge1,note,minus_ours
+"traced-only file, self-loops kept",6235682,25563197,week 2 value,33
+"traced-only file, self-loops dropped",6235649,25563096,ours (Conventions),0
+"full file, both ends Traced",6235682,25563197,,33
+"full file, pre Traced (any post)",7533615,138101434,,1297966
+"full file, post Traced (any pre)",6299748,30365303,,64099
+"full file, either end Traced",7597681,142903540,,1362032
+"full file, all segments",7622864,151856684,,1387215
+"full file, both ends status in Traced+Anchor, self-loops dropped",6239854,25589525,"165,733 bodies",4205
+"full file, both ends status in Traced+Assign, self-loops dropped",6238427,25596927,"166,954 bodies",2778
+"full file, both ends status in Traced+Anchor+Assign, self-loops dropped",6242634,25623372,"167,565 bodies",6985
+"full file, both ends status in Traced+Orphan, self-loops dropped",6276129,25902867,"181,047 bodies",40480
+"significant-only file, all rows",6236426,25568639,,777
+"significant-only file, both ends Traced",6235682,25563197,,33

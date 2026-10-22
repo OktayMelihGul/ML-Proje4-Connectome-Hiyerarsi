@@ -1,0 +1,5 @@
+dataset,release,min_syn,neurons,published_neurons,published_source,edges,total_synapses,distinct_cell_types,typed_neurons,neurons_with_edges
+fafb,783,1,139255,139255,"Dorkenwald et al. 2024, Nature (FlyWire v783)",15091983,54492922,8846,137716,138639
+fafb,783,5,139255,139255,"Dorkenwald et al. 2024, Nature (FlyWire v783)",2700513,34153566,8846,137716,134181
+malecns,v1.0,1,165122,167000,neuPrint male-cns:v1.0 dataset description ('167k neurons'),25563197,124025046,11751,162517,164587
+malecns,v1.0,5,165122,167000,neuPrint male-cns:v1.0 dataset description ('167k neurons'),6235682,89731551,11751,162517,163903

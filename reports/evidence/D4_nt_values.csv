@@ -1,0 +1,35 @@
+column,value,count
+fafb.top_nt,acetylcholine,86193
+fafb.top_nt,glutamate,24875
+fafb.top_nt,gaba,19171
+fafb.top_nt,dopamine,5909
+fafb.top_nt,serotonin,2282
+fafb.top_nt,<NA>,602
+fafb.top_nt,octopamine,216
+malecns.predictedNt (used),acetylcholine,94946
+malecns.predictedNt (used),glutamate,28055
+malecns.predictedNt (used),gaba,20218
+malecns.predictedNt (used),unclear,14365
+malecns.predictedNt (used),dopamine,4443
+malecns.predictedNt (used),histamine,2026
+malecns.predictedNt (used),<NA>,502
+malecns.predictedNt (used),serotonin,465
+malecns.predictedNt (used),octopamine,102
+malecns.consensusNt,acetylcholine,103718
+malecns.consensusNt,glutamate,29296
+malecns.consensusNt,gaba,22055
+malecns.consensusNt,histamine,5910
+malecns.consensusNt,unclear,3100
+malecns.consensusNt,<NA>,502
+malecns.consensusNt,dopamine,392
+malecns.consensusNt,octopamine,101
+malecns.consensusNt,serotonin,48
+malecns.celltypePredictedNt,acetylcholine,98511
+malecns.celltypePredictedNt,glutamate,29015
+malecns.celltypePredictedNt,gaba,21482
+malecns.celltypePredictedNt,histamine,5983
+malecns.celltypePredictedNt,unclear,4708
+malecns.celltypePredictedNt,dopamine,4448
+malecns.celltypePredictedNt,<NA>,502
+malecns.celltypePredictedNt,serotonin,386
+malecns.celltypePredictedNt,octopamine,87

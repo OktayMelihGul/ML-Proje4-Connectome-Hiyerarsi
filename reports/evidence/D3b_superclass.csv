@@ -1,0 +1,63 @@
+column,value,count
+fafb.super_class (783 ids),optic,77537
+fafb.super_class (783 ids),central,32383
+fafb.super_class (783 ids),sensory,16904
+fafb.super_class (783 ids),visual_projection,8038
+fafb.super_class (783 ids),ascending,1750
+fafb.super_class (783 ids),descending,1303
+fafb.super_class (783 ids),sensory_ascending,612
+fafb.super_class (783 ids),visual_centrifugal,524
+fafb.super_class (783 ids),motor,110
+fafb.super_class (783 ids),endocrine,80
+malecns.superclass,ol_intrinsic,89390
+malecns.superclass,cb_intrinsic,32160
+malecns.superclass,vnc_intrinsic,13151
+malecns.superclass,visual_projection,9201
+malecns.superclass,vnc_sensory,6365
+malecns.superclass,cb_sensory,4868
+malecns.superclass,ol_sensory,4114
+malecns.superclass,ascending_neuron,1846
+malecns.superclass,descending_neuron,1314
+malecns.superclass,vnc_motor,708
+malecns.superclass,visual_centrifugal,563
+malecns.superclass,sensory_ascending,537
+malecns.superclass,<NA>,516
+malecns.superclass,cb_motor,107
+malecns.superclass,vnc_efferent,94
+malecns.superclass,cb_endocrine,72
+malecns.superclass,ENS,47
+malecns.superclass,vnc_endocrine,22
+malecns.superclass,sensory_descending,12
+malecns.superclass,vnc_sensory_tbc,9
+malecns.superclass,efferent_ascending,8
+malecns.superclass,cb_sensory_tbc,5
+malecns.superclass,efferent_descending,4
+malecns.superclass,cb_efferent,4
+malecns.superclass,visual_projection_tbc,2
+malecns.superclass,sensory_ascending_tbc,2
+malecns.superclass,vnc_tbc,1
+fafb.super_class (mapped),optic,77537
+fafb.super_class (mapped),central,32383
+fafb.super_class (mapped),sensory,16904
+fafb.super_class (mapped),visual_projection,8038
+fafb.super_class (mapped),ascending,1750
+fafb.super_class (mapped),descending,1303
+fafb.super_class (mapped),sensory_ascending,612
+fafb.super_class (mapped),visual_centrifugal,524
+fafb.super_class (mapped),motor,110
+fafb.super_class (mapped),endocrine,80
+fafb.super_class (mapped),unknown,14
+malecns.super_class (mapped),optic,89390
+malecns.super_class (mapped),central,32160
+malecns.super_class (mapped),sensory,15373
+malecns.super_class (mapped),vnc_intrinsic,13151
+malecns.super_class (mapped),visual_projection,9203
+malecns.super_class (mapped),ascending,1846
+malecns.super_class (mapped),descending,1314
+malecns.super_class (mapped),motor,815
+malecns.super_class (mapped),visual_centrifugal,563
+malecns.super_class (mapped),sensory_ascending,539
+malecns.super_class (mapped),unknown,517
+malecns.super_class (mapped),efferent,110
+malecns.super_class (mapped),endocrine,94
+malecns.super_class (mapped),enteric,47

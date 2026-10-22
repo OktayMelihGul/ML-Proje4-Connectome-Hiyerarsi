@@ -1,0 +1,3 @@
+dataset,central_neurons,hubs,cutoff_total_degree,ties_at_cutoff_left_out,hubs_out_gt_in_%,hubs_in_gt_out_%,median_out_over_in,top_super_classes,top_cell_types,top_regions
+fafb,44487,445,208,0,41.6,57.5,0.89,"{'central': 400, 'descending': 40, 'ascending': 4, 'visual_centrifugal': 1}","{'lLN2X03': 5, 'AOTU041': 4, 'lLN2F_b': 4, 'PLP015': 4, 'lLN2T_b': 4, 'lLN2F_a': 4, 'AVLP479': 4, 'DM2_lPN': 4}","{'AVLP_R': 66, 'AL_L': 50, 'AVLP_L': 45, 'AL_R': 37, 'GNG': 26}"
+malecns,43988,440,335,0,33.6,66.4,0.75,"{'central': 396, 'descending': 29, 'ascending': 10, 'visual_projection': 5}","{'lLN1_bc': 6, 'lLN2T_a': 5, 'lLN2T_b': 4, 'AOTU041': 4, 'lLN2F_a': 4, 'PVLP151': 4, 'ExR1': 4, 'lLN2T_d': 4}","{'AL(R)': 54, 'AVLP(R)': 48, 'AVLP(L)': 35, 'AL(L)': 32, 'PVLP(L)': 26}"

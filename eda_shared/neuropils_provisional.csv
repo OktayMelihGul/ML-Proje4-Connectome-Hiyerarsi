@@ -1,0 +1,45 @@
+neuropil,full_name,is_optic,region_group,status,basis
+LA,lamina,True,sensory_periphery,clear,Optic lobe; photoreceptor terminals
+ME,medulla,True,sensory_periphery,clear,Optic lobe; photoreceptor terminals (R7/R8)
+AME,accessory medulla,True,sensory_periphery,debatable,Optic lobe; also a clock centre
+LO,lobula,True,sensory_periphery,debatable,Optic lobe; downstream of the medulla
+LOP,lobula plate,True,sensory_periphery,debatable,Optic lobe; downstream of the medulla
+OCG,ocellar ganglion,False,sensory_periphery,clear,Ocellar photoreceptor terminals
+AL,antennal lobe,False,sensory_periphery,clear,Olfactory receptor neuron terminals
+AMMC,antennal mechanosensory and motor centre,False,sensory_periphery,clear,Johnston's organ afferent terminals
+SAD,saddle,False,sensory_periphery,debatable,Antennal mechanosensory afferents; also descending-neuron inputs
+PRW,prow,False,sensory_periphery,debatable,Pharyngeal gustatory afferents
+GNG,gnathal ganglia,False,motor_periphery,debatable,Mouthpart motor neurons and many descending-neuron inputs; also gustatory afferents
+IPS,inferior posterior slope,False,motor_periphery,debatable,Posterior slope: major input zone of descending neurons
+SPS,superior posterior slope,False,motor_periphery,debatable,Posterior slope: major input zone of descending neurons
+VES,vest,False,motor_periphery,debatable,Ventromedial neuropil with descending-neuron inputs
+FLA,flange,False,motor_periphery,debatable,Neurosecretory (endocrine) output region
+MB_CA,mushroom body calyx,False,higher_order,clear,Mushroom body
+MB_PED,mushroom body pedunculus,False,higher_order,clear,Mushroom body
+MB_VL,mushroom body vertical lobe,False,higher_order,clear,Mushroom body
+MB_ML,mushroom body medial lobe,False,higher_order,clear,Mushroom body
+MB,mushroom body (merged),False,higher_order,clear,Only if a repository merges the four mushroom body neuropils
+FB,fan-shaped body,False,higher_order,clear,Central complex
+EB,ellipsoid body,False,higher_order,clear,Central complex
+PB,protocerebral bridge,False,higher_order,clear,Central complex
+NO,noduli,False,higher_order,clear,Central complex
+BU,bulb,False,higher_order,clear,Central complex input zone
+GA,gall,False,higher_order,clear,Central complex accessory
+LH,lateral horn,False,higher_order,clear,Second-order olfactory centre; protocerebrum
+SMP,superior medial protocerebrum,False,higher_order,clear,Superior protocerebrum
+SIP,superior intermediate protocerebrum,False,higher_order,clear,Superior protocerebrum
+SLP,superior lateral protocerebrum,False,higher_order,clear,Superior protocerebrum
+CRE,crepine,False,higher_order,clear,Inferior protocerebrum
+SCL,superior clamp,False,higher_order,clear,Inferior protocerebrum
+ICL,inferior clamp,False,higher_order,clear,Inferior protocerebrum
+IB,inferior bridge,False,higher_order,clear,Inferior protocerebrum
+ATL,antler,False,higher_order,clear,Inferior protocerebrum
+LAL,lateral accessory lobe,False,higher_order,debatable,Central complex accessory; also premotor (steering)
+AOTU,anterior optic tubercle,False,higher_order,debatable,Visual relay towards the central complex
+AVLP,anterior ventrolateral protocerebrum,False,higher_order,debatable,Ventrolateral protocerebrum; receives visual and auditory projections
+PVLP,posterior ventrolateral protocerebrum,False,higher_order,debatable,Ventrolateral protocerebrum; receives visual projection neurons
+PLP,posterolateral protocerebrum,False,higher_order,debatable,Ventrolateral protocerebrum; receives visual projection neurons
+WED,wedge,False,higher_order,debatable,Second-order auditory and mechanosensory centre
+GOR,gorget,False,higher_order,debatable,Ventromedial neuropil
+EPA,epaulette,False,higher_order,debatable,Ventromedial neuropil
+CAN,cantle,False,higher_order,debatable,Periesophageal neuropil next to the GNG

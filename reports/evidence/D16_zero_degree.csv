@@ -1,0 +1,21 @@
+dataset,threshold,scope,neurons,zero inputs,zero outputs,zero inputs AND outputs
+fafb,>=1,all,139255,2165,1250,616
+fafb,>=1,central_brain,45203,133,216,31
+fafb,>=5,all,139255,14063,9904,5074
+fafb,>=5,central_brain,45203,3371,2510,1124
+fafb,>=10,all,139255,28934,28134,14810
+fafb,>=10,central_brain,45203,8736,6498,4327
+fafb,0.9%,all,139255,2236,3975,735
+fafb,0.9%,central_brain,45203,149,1805,68
+fafb,1.0%,all,139255,2277,4729,756
+fafb,1.0%,central_brain,45203,157,2220,69
+malecns,>=1,all,165122,659,1583,535
+malecns,>=1,central_brain,43988,99,103,64
+malecns,>=5,all,165122,3878,4899,1219
+malecns,>=5,central_brain,43988,1106,480,306
+malecns,>=10,all,165122,10757,10855,3336
+malecns,>=10,central_brain,43988,2989,1331,821
+malecns,0.9%,all,165122,865,4882,585
+malecns,0.9%,central_brain,43988,147,1628,83
+malecns,1.0%,all,165122,945,5947,588
+malecns,1.0%,central_brain,43988,165,2337,86

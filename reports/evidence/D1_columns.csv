@@ -1,0 +1,8 @@
+source,n_columns,columns
+fafb: Supplemental_file1_neuron_annotations.tsv,31,"cell_class, cell_sub_class, cell_type, dimorphism, fbbt_id, flow, fru_dsx, hartenstein_hemilineage, hemibrain_type, ito_lee_hemilineage, known_nt, known_nt_source, matching_notes, nerve, nucleus_id, pos_x, pos_y, pos_z, root_id, side, soma_x, soma_y, soma_z, status, super_class, supertype, supervoxel_id, synonyms, top_nt, top_nt_conf, vfb_id"
+fafb: proofread_connections_783.feather,10,"ach_avg, da_avg, gaba_avg, glut_avg, neuropil, oct_avg, post_pt_root_id, pre_pt_root_id, ser_avg, syn_count"
+fafb: per_neuron_neuropil_count_pre_783.feather,3,"count, neuropil, pre_pt_root_id"
+fafb: per_neuron_neuropil_count_post_783.feather,3,"count, neuropil, post_pt_root_id"
+malecns: neuPrint fetch_neurons (neuron table),53,"assignedOlHex1, assignedOlHex2, birthtime, bodyId, celltypePredictedNt, celltypePredictedNtConfidence, celltypeTotalNtPredictions, class, consensusNt, dimorphism, downstream, entryNerve, exitNerve, flywireType, fruDsx, group, hemibrainType, inputRois, instance, itoleeHl, locationType, mancBodyid, mancGroup, mancSerial, mancType, matchingNotes, mcnsSerial, outputRois, post, pre, predictedNt, predictedNtConfidence, receptorType, roiInfo (dropped; expanded into ROI table), rootSide, serialMotif, size, somaLocation, somaNeuromere, somaSide, status, statusLabel, subclass, superclass, supertype, synonyms, synweight, tosomaLocation, totalNtPredictions, trumanHl, type, upstream, vfbId"
+malecns: neuPrint fetch_neurons (ROI table),6,"bodyId, downstream, post, pre, roi, upstream"
+malecns: connectome-weights-...-traced-only.feather,5,"body_post, body_pre, type_post, type_pre, weight"

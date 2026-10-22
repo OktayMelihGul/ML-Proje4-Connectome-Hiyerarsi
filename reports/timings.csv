@@ -1,0 +1,11 @@
+step,seconds,cache_hit,rows,parquet_MB
+fafb neurons,54.8,False,139255,3.2
+fafb edges min1,18.2,False,15091983,54.5
+fafb edges min5,7.3,False,2700513,11.9
+malecns neurons,6.2,False,165122,3.7
+malecns edges min1,23.1,False,25563197,92.2
+malecns edges min5,5.3,False,6235682,24.6
+fafb edges min1 (2nd call),1.1,True,15091983,54.5
+fafb edges min5 (2nd call),0.2,True,2700513,11.9
+malecns edges min1 (2nd call),1.7,True,25563197,92.2
+malecns edges min5 (2nd call),0.5,True,6235682,24.6

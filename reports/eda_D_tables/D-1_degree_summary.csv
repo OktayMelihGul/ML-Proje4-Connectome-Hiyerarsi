@@ -1,0 +1,13 @@
+dataset,population,degree,neurons,zero_%,median,mean,p99,max,share_ge_100_%
+fafb,all,in_degree,139255,20.78,3.0,7.66,85.0,2716,0.685
+fafb,all,out_degree,139255,20.2,3.0,7.66,67.0,4704,0.484
+fafb,central,in_degree,44487,20.69,4.0,12.68,119.13999999999942,2716,1.54
+fafb,central,out_degree,44487,15.76,5.0,12.05,102.0,2630,1.088
+fafb,optic,in_degree,94768,20.82,3.0,5.3,57.0,1601,0.284
+fafb,optic,out_degree,94768,22.29,3.0,5.6,41.0,4704,0.2
+malecns,all,in_degree,142757,5.84,6.0,14.98,142.0,2253,2.045
+malecns,all,out_degree,142757,6.19,8.0,14.98,104.0,6727,1.096
+malecns,central,in_degree,43988,7.21,11.0,25.48,200.0,2253,4.401
+malecns,central,out_degree,43988,3.08,14.0,24.04,159.0,2159,2.803
+malecns,optic,in_degree,98769,5.23,5.0,10.3,99.0,2034,0.996
+malecns,optic,out_degree,98769,7.58,7.0,10.94,60.0,6727,0.335

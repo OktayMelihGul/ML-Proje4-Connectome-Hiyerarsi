@@ -1,0 +1,3 @@
+dataset,"raw rows (pre, post, neuropil)",raw min syn_count,edges after aggregation (min1),total synapses,self-connections (min1),self-connection synapses,self-connections >=5
+fafb,16847997,1,15091983,54492922,0,0,0
+malecns,n/a: flat export already summed over ROIs,1,25563197,124025046,101,473,33

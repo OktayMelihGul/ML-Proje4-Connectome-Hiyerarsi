@@ -1,0 +1,30 @@
+dataset,seed,group,neurons
+fafb,sensory,visual,11391
+fafb,sensory,mechanosensory,2667
+fafb,sensory,olfactory,2281
+fafb,sensory,AN,526
+fafb,sensory,gustatory,410
+fafb,sensory,unknown_sensory,132
+fafb,sensory,hygrosensory,74
+fafb,sensory,thermosensory,29
+fafb,sensory,optic_lobes,4
+fafb,sensory,(no class),2
+fafb,motor,GNG,89
+fafb,motor,PRW,13
+fafb,motor,IPS,4
+fafb,motor,SAD,2
+fafb,motor,FLA,2
+malecns,sensory,visual,4107
+malecns,sensory,olfactory,2639
+malecns,sensory,mechanosensory,1673
+malecns,sensory,gustatory,351
+malecns,sensory,mechanosensory_proprioceptive,131
+malecns,sensory,unknown_sensory,106
+malecns,sensory,hygrosensory,66
+malecns,sensory,(no class),32
+malecns,sensory,thermosensory,25
+malecns,sensory,mechanosensory_tbc,11
+malecns,sensory,chemosensory,1
+malecns,motor,GNG,97
+malecns,motor,CentralBrain-unspecified,6
+malecns,motor,IPS,4
